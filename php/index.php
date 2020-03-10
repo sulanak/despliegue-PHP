@@ -15,7 +15,7 @@
             }
 
             // Crear la conexión
-            $servername = "192.168.99.107";
+            $servername = mysql;
             $database = "dwes";
             $username = "dwes";
             $password = "dwes";
