@@ -15,7 +15,7 @@
             }
 
             // Crear la conexión
-            $servername = mysql;
+            $servername = "mysql";
             $database = "dwes";
             $username = "dwes";
             $password = "dwes";
